@@ -11,5 +11,5 @@ Libraries Required To Try On Your Computer
 
 ```
 ⭐Don't forget to create the catkin_ws file
-⭐Run the rviz environment on cd catkin_ws/src
+⭐Run the rviz environment on 'cd catkin_ws/src'
 ```
